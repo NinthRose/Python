@@ -1,11 +1,11 @@
 # Python
 
 
-git clone https://github.com/Yonv1943/Python
+git clone git@github.com:NinthRose/Python.git
 
-git config --global user.email "178320049@qq.com"
+git config --global user.email "563906875@qq.com"
 
-git config --global user.name "Yonv"
+git config --global user.name "Baiker"
 
 
 
@@ -17,7 +17,7 @@ git commit -m "first commit"
 
 
 
-git remote add origin git@github.com:Yonv1943/Python.git
+git remote add origin git@github.com:NinthRose/Python.git
 
 git push -u origin master
 
